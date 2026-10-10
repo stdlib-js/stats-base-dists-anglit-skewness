@@ -47,6 +47,11 @@ The [skewness][skewness] for an [anglit][anglit-distribution] random variable wi
 \mathop{\mathrm{skew}}\left( X \right) = 0
 ```
 
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = 0" data-equation="eq:anglit_skewness">
+    <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@6aad72c2bcd622da9b9f2f3ff9d67daea5b895bd/lib/node_modules/@stdlib/stats/base/dists/anglit/skewness/docs/img/equation_anglit_skewness.svg" alt="Skewness for an anglit distribution.">
+    <br>
+</div> -->
+
 <!-- </equation> -->
 
 </section>
@@ -331,7 +336,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-anglit-skewness/main/LICENSE
 
-[anglit-distribution]: https://en.wikipedia.org/wiki/Anglit_distribution
+[anglit-distribution]: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.anglit.html
 
 [skewness]: https://en.wikipedia.org/wiki/Skewness
 

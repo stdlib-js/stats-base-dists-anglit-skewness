@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-31)
+## Unreleased (2026-10-10)
 
 <section class="features">
 
@@ -16,12 +16,28 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#14863](https://github.com/stdlib-js/stdlib/issues/14863)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`1706793`](https://github.com/stdlib-js/stdlib/commit/170679376e8f8f572cc8f20da9c7406f51e6fbf0) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`fda1b2d`](https://github.com/stdlib-js/stdlib/commit/fda1b2dcb8178238aec1f4abb2c03be218ba5800) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`6aad72c`](https://github.com/stdlib-js/stdlib/commit/6aad72c2bcd622da9b9f2f3ff9d67daea5b895bd) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
+-   [`2bef58b`](https://github.com/stdlib-js/stdlib/commit/2bef58bc7b32b5e7c87318940a21b0f6228a2f07) - **docs:** fix broken Markdown link [(#14865)](https://github.com/stdlib-js/stdlib/pull/14865) _(by Paradox)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`cd1b1aa`](https://github.com/stdlib-js/stdlib/commit/cd1b1aa168f9119c8465c27d2b9d9973bc95084d) - **feat:** add `stats/base/dists/anglit/skewness` [(#13600)](https://github.com/stdlib-js/stdlib/pull/13600) _(by Neeraj Pathak, Philipp Burckhardt)_
 
@@ -35,9 +51,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Neeraj Pathak
+-   Paradox
 -   Philipp Burckhardt
 
 </section>
